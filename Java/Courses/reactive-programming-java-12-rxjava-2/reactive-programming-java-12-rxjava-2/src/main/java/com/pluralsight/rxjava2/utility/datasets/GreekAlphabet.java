@@ -82,7 +82,7 @@ public class GreekAlphabet {
 
     public static Observable<String> greekAlphabetInEnglishObservable() {
 
-        return Observable.fromArray(greekLettersInEnglish)
+        return Observable.fromArray( )
             ;//.doOnSubscribe( disposable -> log.info( "doOnSubscribe - greekAlphabetInEnglishObservable"));
     }
 

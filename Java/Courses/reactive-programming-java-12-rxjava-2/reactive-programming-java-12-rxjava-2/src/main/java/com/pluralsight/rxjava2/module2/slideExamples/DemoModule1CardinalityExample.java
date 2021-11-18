@@ -31,7 +31,7 @@ public class DemoModule1CardinalityExample {
                 .first("?")
                 .filter( nextLetter -> nextLetter.equals("\u03b1"));
 
-        // Maybe result stream - No letters
+        // May be result stream - No letters
         Maybe<String> maybeGreekLetterNoEvents = Observable.fromArray(GreekAlphabet.greekLetters)
                 .first("?")
                 .filter( nextLetter -> !nextLetter.equals("\u03b1"));
