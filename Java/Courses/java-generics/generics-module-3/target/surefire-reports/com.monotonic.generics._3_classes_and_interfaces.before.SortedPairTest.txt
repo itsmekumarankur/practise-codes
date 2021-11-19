@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.monotonic.generics._3_classes_and_interfaces.before.SortedPairTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.083 sec
