@@ -1,0 +1,12 @@
+com/monotonic/generics/_3_classes_and_interfaces/before/ReverseComparator.class
+com/monotonic/generics/_3_classes_and_interfaces/before/SortedPair.class
+com/monotonic/generics/_3_classes_and_interfaces/after/Reverser.class
+com/monotonic/generics/_3_classes_and_interfaces/after/SortingAnonymousClassExample.class
+com/monotonic/generics/_3_classes_and_interfaces/after/SortedPair.class
+com/monotonic/generics/_3_classes_and_interfaces/before/SortingExamples.class
+com/monotonic/generics/_3_classes_and_interfaces/before/Person.class
+com/monotonic/generics/_3_classes_and_interfaces/after/AgeComparator.class
+com/monotonic/generics/_3_classes_and_interfaces/after/SortingExamples.class
+com/monotonic/generics/_3_classes_and_interfaces/after/SortingAnonymousClassExample$1.class
+com/monotonic/generics/_3_classes_and_interfaces/after/Person.class
+com/monotonic/generics/_3_classes_and_interfaces/before/AgeComparator.class
